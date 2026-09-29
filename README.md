@@ -36,7 +36,7 @@ Tejer una red de colaboradores con un perfil técnico común, que sirve de base 
 | Aspecto | Especificación |
 |---|---|
 | **Comunicación** | El seguimiento técnico y las notificaciones se hacen por mensaje privado en un servidor dedicado de **Discord**. |
-| **Insumos** | Los ejercicios se distribuyen como archivos dentro de este repositorio (`git clone https://github.com/saorionline/gatekeeper-parser/tree/main`) en **Visual Studio Code* o tu editor de código preferido. |
+| **Insumos** | Los ejercicios se distribuyen como archivos dentro de este repositorio (`git clone https://github.com/saorionline/gatekeeper-parser/tree/main`) en **Visual Studio Code** o tu editor de código preferido. |
 | **Entorno** | Se usa principalmente **Visual Studio Code**. Google Colab no permite importar módulos secundarios ni archivos de soporte sin configurar celdas adicionales. |
 | **Entrega** | `gama.ipynb` y `reporte.md` se suben a una carpeta personal de **Entregas** en Google Drive, con permisos independientes para cada estudiante. |
 
