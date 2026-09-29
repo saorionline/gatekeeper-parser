@@ -36,7 +36,7 @@ Tejer una red de colaboradores con un perfil técnico común, que sirve de base 
 | Aspecto | Especificación |
 |---|---|
 | **Comunicación** | El seguimiento técnico y las notificaciones se hacen por mensaje privado en un servidor dedicado de **Discord**. |
-| **Insumos** | Los ejercicios se distribuyen como archivos comprimidos (`Gama.zip`) en **Google Drive**. |
+| **Insumos** | Los ejercicios se distribuyen como archivos dentro de este repositorio (`git clone `) en **Visual Studio Code* o tu editor de código preferido. |
 | **Entorno** | Se usa principalmente **Visual Studio Code**. Google Colab no permite importar módulos secundarios ni archivos de soporte sin configurar celdas adicionales. |
 | **Entrega** | `gama.ipynb` y `reporte.md` se suben a una carpeta personal de **Entregas** en Google Drive, con permisos independientes para cada estudiante. |
 
@@ -95,7 +95,7 @@ El robot **solo lee** los archivos de datos y nunca los modifica. Cada fila del 
 
 **Requisitos:** Python 3.9 o superior (solo usa la biblioteca estándar: `sqlite3`, `decimal`, `datetime` y `pathlib`) y VS Code con la extensión de Jupyter.
 
-1. Clona el repositorio o descomprime `Gama.zip` en una carpeta local.
+1. Clona el repositorio  en una carpeta local.
 2. Ábrela en VS Code y abre `gama.ipynb`.
 3. Ejecuta las celdas en orden con **Shift + Enter**.
 4. También puedes ejecutar el robot directamente desde la terminal:
