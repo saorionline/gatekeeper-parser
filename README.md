@@ -125,4 +125,4 @@ Cuando termines, ejecuta de nuevo el robot, compara el reporte y **justifica tus
 
 ## 🤝 Convivencia
 
-Antes de colaborar, lee el [Código de conducta](CODE_OF_CONDUCT.MD).
+Antes de colaborar, lee el [Código de conducta](CODIGO_CONDUCTA.MD).
