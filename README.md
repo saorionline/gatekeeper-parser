@@ -119,9 +119,9 @@ Cuando termines, ejecuta de nuevo el robot, compara el reporte y **justifica tus
 
 ## 📬 Entrega
 
-1. Sube `gama.ipynb` (con tus respuestas) y `reporte.md` a tu carpeta personal de **Entregas** en Google Drive.
-2. Avisa por mensaje privado en **Discord**.
-3. Espera la revisión técnica y recibe tu 🏅 **pin animado** para pasar a la siguiente etapa.
+1. Ingresa al Servidor de [Discord](https://discord.gg/EMkYdHhy)
+2. Solicita una tutoría en vivo en la Sala de Reuniones para dar y recibir feedback
+3. Recibe tu 🏅 **pin animado** para certificar tu progreso y pasar a la siguiente etapa.
 
 ## 🤝 Convivencia
 
